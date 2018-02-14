@@ -1,3 +1,6 @@
+# Requires a ruby version higher than ruby 2.3.3 and lower than 2.4
+ruby "~> 2.3.3"
+
 source 'https://rubygems.org'
 
 
